@@ -1,0 +1,5 @@
+<ls>"Monstera Deliciosa"</ls>
+<ls>"Fiddle Leaf Fig"</ls>
+<ls>"Pilea"</ls>
+<ls>"Golden Pothos"</ls>
+<ls>"Peace Lily"</ls> 
